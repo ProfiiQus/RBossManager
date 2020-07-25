@@ -1,0 +1,24 @@
+world: pvp
+
+bosses:
+    Devil:
+        x: 79.5
+        y: 55
+        z: -104
+    Goliath:
+        x: -82.5
+        y: 38
+        z: -73.5
+    VoidWalker:
+        x: -34.5
+        y: 38
+        z: 113.5
+    Zeus:
+        x: 92.5
+        y: 34
+        z: 66.5
+
+messages:
+    not-enough-permissions: "&8[&3RBossManager&8] &fNot enough permissions."
+    boss-spawned: "&8[&3RBossManager&8] &fSpawned boss &b{BOSS}&f"
+    world-not-exist: "&8[&3RBossManager&8] &fError - world set in config does not exist."

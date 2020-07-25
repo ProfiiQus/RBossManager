@@ -1,0 +1,7 @@
+name: RBossManager
+version: 1.0-LTS
+main: eu.retrox.bossmanager.RBossManager
+author: ProfiiQus
+commands:
+  spawnbosses:
+    description: "Respawns dead bosses"
